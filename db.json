@@ -1,18 +1,22 @@
 {
   "epics": [
     {
+      "id"      : 1
       "headline": "Fortnite",
       "sub_head": "Windows 7/8/10 64-bit, Intel core i5 2.8ghz, 8gb RAM, Nvidia GTX 660 or AMD Radeon HD 7870"
     },
     {
+      "id"      : 2
       "headline": "Dauntless",
       "sub_head": "Windows 10, intel core i7, 8gb RAM, Nvidia GTX 970"
     },
     {
+      "id"      : 3
       "headline": "World War Z",
       "sub_head": "Windows 7/8/10 64-bit, Intel core i3 560 or AMD phenom II x4 945, 6gb RAM, Nvidia GTX 460"
     },
     {
+      "id"      : 4
       "headline": "Tom Clancy Series",
       "sub_head": "Windows 10 64-bit, intel core i7 3970, 16gb RAM, GeForce GTX 960"
     }
